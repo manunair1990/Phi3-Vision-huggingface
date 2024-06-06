@@ -28,7 +28,7 @@ Install the required Python packages using pip.
 
 ## Execute the code
 
-**python phi3vision.py**
+**python phi3_vision_huggingface.py**
 
 Notes
 To use a URL instead of a local image file, uncomment the relevant lines and replace the URL with your desired image URL.
