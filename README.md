@@ -16,7 +16,7 @@ To run this project, you will need Python and the necessary dependencies. Follow
 
 ### Clone the Repository
 
-'''git clone https://github.com/manunair1990/Phi3-Vision-huggingface
+**git clone https://github.com/manunair1990/Phi3-Vision-huggingface**
 
 '''cd Phi3-Vision-huggingface
 
