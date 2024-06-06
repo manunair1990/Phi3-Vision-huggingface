@@ -32,3 +32,9 @@ Install the required Python packages using pip.
 
 Notes
 To use a URL instead of a local image file, uncomment the relevant lines and replace the URL with your desired image URL.
+
+## Acknowledgements
+
+Hugging Face for providing the model and tokenizer APIs.
+
+The creators of the Phi-3 Vision model.
