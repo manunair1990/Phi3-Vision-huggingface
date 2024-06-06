@@ -14,19 +14,19 @@ This repository contains code to perform vision tasks using the local LLM Phi-3 
 
 To run this project, you will need Python and the necessary dependencies. Follow the steps below to set up your environment.
 
-### Clone the Repository
+## Clone the Repository
 
 **git clone https://github.com/manunair1990/Phi3-Vision-huggingface**
 
 **cd Phi3-Vision-huggingface**
 
-### Install Dependencies
+## Install Dependencies
 
 Install the required Python packages using pip.
 
 **pip install -r requirements.txt**
 
-### Execute the code
+## Execute the code
 
 **python phi3vision.py**
 
